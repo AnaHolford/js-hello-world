@@ -4,7 +4,7 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
+console.log("Hello, 'World'"); console.log("good afternoon");
 
 /*  
 Next, PLAY! 
@@ -19,4 +19,6 @@ Modify your code on line 7 to try to accomplish the tasks listed below:
    7. Print two messages on the same line.
    8. Print a message that contains quote marks, such as Quoth the Raven "Nevermore".
    9. Other. You choose!
+
 */
+
